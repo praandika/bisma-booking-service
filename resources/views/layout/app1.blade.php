@@ -155,7 +155,7 @@
           Purchase the pro version with working PHP/AJAX contact form: https://bootstrapmade.com/buy/?theme=Reveal
         -->
         
-        &copy; Copyright <strong>Tim CRM Bisma</strong> Supported By <a href="dikaprana.com">Andika Pranayoga</a>
+        &copy; Copyright <strong>CRM Bisma</strong> Supported By <a href="https://dikaprana.com" target="_blank">Andika Pranayoga</a>
         <br>
       </div>
     </div>
