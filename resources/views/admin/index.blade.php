@@ -62,7 +62,7 @@
   <!-- /.login-box-body -->
   <center>
       <br/>
-      <p><strong>&copy; Tim CRM Bisma</strong> Supported By <a href="dikaprana.com">Andika Pranayoga</a></p>
+      <p><strong>&copy; Tim CRM Bisma</strong> Supported By <a href="https://dikaprana.com" target="_blank">Andika Pranayoga</a></p>
   </center>
 </div>
 <!-- /.login-box -->

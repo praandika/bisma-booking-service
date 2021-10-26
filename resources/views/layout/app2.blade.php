@@ -94,7 +94,7 @@
                   <small>
                   Sistem Informasi Booking Service Bisma Group <br>
                   &copy; <strong>Tim CRM Bisma</strong> <br>
-                  Supported By <a href="dikaprana.com" style="color: white;">Andika Pranayoga</a> <br>
+                  Supported By <a href="https://dikaprana.com" style="color: white;" target="_blank">Andika Pranayoga</a> <br>
                   Est 2019 <br>
                 </small>
                 </p>
